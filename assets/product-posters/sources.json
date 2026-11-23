@@ -1,0 +1,116 @@
+{
+  "source": "Промоматериалы каталога BRIXUM. Даты добавления указаны в receivedOn. Материалы не заявляются фотографиями съёмки магазина.",
+  "conversion": "PNG → JPEG quality 90; исходные размеры и композиция сохранены, без обрезки и ретуши.",
+  "images": [
+    {
+      "product": "mercedes-amg-w14",
+      "suppliedFile": "Mercedes-AMG F1_ коллекционная модель.png",
+      "original": "assets/product-posters/mercedes-amg-w14.png",
+      "siteImage": "/products/formula-1/mercedes-amg-w14.jpg",
+      "dimensions": [1254, 1254],
+      "sha256": "b7c02f14853cfe5b3ad44c96fafc5bcedb91bf6e73075e305bffbf98d115cada",
+      "bytes": 397729,
+      "receivedOn": "2026-11-23"
+    },
+    {
+      "product": "red-bull-rb20",
+      "suppliedFile": "Карточка конструктора Red Bull RB20 — 19 900 ₸.png",
+      "original": "assets/product-posters/red-bull-rb20.png",
+      "siteImage": "/products/formula-1/red-bull-rb20.jpg",
+      "dimensions": [1254, 1254],
+      "sha256": "6e0dd74bf7738d3f2947da80f1e591c5f89ab3945a07defaff1d87f6fc5b312a",
+      "bytes": 427944,
+      "receivedOn": "2026-11-23"
+    },
+    {
+      "product": "ferrari-sf24",
+      "suppliedFile": "Коллекционный конструктор Ferrari SF-24.png",
+      "original": "assets/product-posters/ferrari-sf24.png",
+      "siteImage": "/products/formula-1/ferrari-sf24.jpg",
+      "dimensions": [1254, 1254],
+      "sha256": "bbf059cd73dd3132f8dc7afd669a0b0b44fe79ec661e0ae1dcd11e6a7650e920",
+      "bytes": 388748,
+      "receivedOn": "2026-11-23"
+    },
+    {
+      "product": "mclaren-mcl39",
+      "suppliedFile": "Коллекционный конструктор McLaren MCL39.png",
+      "original": "assets/product-posters/mclaren-mcl39.png",
+      "siteImage": "/products/formula-1/mclaren-mcl39.jpg",
+      "dimensions": [1254, 1254],
+      "sha256": "258fe89df9c2430399281fdff490311baf440db64422923f1043b7052b03adb8",
+      "bytes": 400482,
+      "receivedOn": "2026-11-23"
+    },
+    {
+      "product": "aston-martin-amr25",
+      "suppliedFile": "Постер коллекционной модели Aston Martin F1.png",
+      "original": "assets/product-posters/aston-martin-amr25.png",
+      "siteImage": "/products/formula-1/aston-martin-amr25.jpg",
+      "dimensions": [1254, 1254],
+      "sha256": "b4b8bd3226d24e2c19085e4f89527629d6074d8aced3a9af04c6f9b11d27a172",
+      "bytes": 391307,
+      "receivedOn": "2026-11-23"
+    },
+    {
+      "product": "bouquet-of-pink-roses",
+      "suppliedFile": "Неоновый конструктор «Букет роз».png",
+      "receivedOn": "2026-11-24",
+      "original": "assets/product-posters/bouquet-of-pink-roses.png",
+      "siteImage": "/products/botanical/bouquet-of-pink-roses.jpg",
+      "dimensions": [1254, 1254],
+      "sha256": "2d500671515e1abf9625bcdd3873fa55e2ebd86fb6674bdb67222e2670c3d196",
+      "bytes": 339776
+    },
+    {
+      "product": "bouquet-of-roses",
+      "suppliedFile": "BRIXUM_Red_Roses_original_logo.png",
+      "receivedOn": "2026-11-24",
+      "original": "assets/product-posters/bouquet-of-roses.png",
+      "siteImage": "/products/botanical/bouquet-of-roses.jpg",
+      "dimensions": [1254, 1254],
+      "sha256": "91247d48159246ee667d98f0a5c96e39cb858a136ab8b3b1d875f748627e09a5",
+      "bytes": 333390
+    },
+    {
+      "product": "orchid",
+      "suppliedFile": "BRIXUM_Orchid_fixed_original_logo.png",
+      "receivedOn": "2026-11-24",
+      "original": "assets/product-posters/orchid.png",
+      "siteImage": "/products/botanical/orchid.jpg",
+      "dimensions": [1254, 1254],
+      "sha256": "649a9a91986490666d6c5f2e06db897868b68d006f763d5b07a735cb5c3c5ccb",
+      "bytes": 307788
+    },
+    {
+      "product": "wildflower-bouquet",
+      "suppliedFile": "BRIXUM_Wildflower_Bouquet_card.png",
+      "receivedOn": "2026-11-24",
+      "original": "assets/product-posters/wildflower-bouquet.png",
+      "siteImage": "/products/botanical/wildflower-bouquet.jpg",
+      "dimensions": [1254, 1254],
+      "sha256": "219bd8f3c74a2fddaab7679536d58ed79018092cc65e4fbfc73e880e1e0dcdb2",
+      "bytes": 374783
+    },
+    {
+      "product": "flower-bouquet",
+      "suppliedFile": "BRIXUM_Flower_Bouquet_card.png",
+      "receivedOn": "2026-11-24",
+      "original": "assets/product-posters/flower-bouquet.png",
+      "siteImage": "/products/botanical/flower-bouquet.jpg",
+      "dimensions": [1254, 1254],
+      "sha256": "0a72be8404858789f40bd5a02cd897a0c9a653b108664cbadd50b6d876953d50",
+      "bytes": 357545
+    },
+    {
+      "product": "pretty-pink-flower-bouquet",
+      "suppliedFile": "BRIXUM_Pretty_Pink_9490_exact_SVG_logo.png",
+      "receivedOn": "2026-11-24",
+      "original": "assets/product-posters/pretty-pink-flower-bouquet.png",
+      "siteImage": "/products/botanical/pretty-pink-flower-bouquet.jpg",
+      "dimensions": [1254, 1254],
+      "sha256": "4849fead613d1e1931d9b2c046745934b92265f7ec1feb8f165915b6294aed8e",
+      "bytes": 431921
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "collection": "formula-1",
+    "generatedOn": "2026-11-24",
+    "generator": "Built-in image_gen",
+    "purpose": "Тематическая иллюстрация раздела; не фото товара из каталога",
+    "original": "assets/collection-covers/formula-1-editorial.png",
+    "siteImage": "/images/collections/formula-1-editorial.jpg",
+    "dimensions": [1254, 1254],
+    "sha256": "e862788dbce5d06b4358cd392252e21a876672a100334ef17d164fb471ccc4a9",
+    "webBytes": 550493
+  },
+  {
+    "collection": "botanical",
+    "generatedOn": "2026-11-24",
+    "generator": "Built-in image_gen",
+    "purpose": "Тематическая иллюстрация раздела; не фото товара из каталога",
+    "original": "assets/collection-covers/botanical-editorial.png",
+    "siteImage": "/images/collections/botanical-editorial.jpg",
+    "dimensions": [1254, 1254],
+    "sha256": "580fdb9080c947aec6d07a20b3bcd913a009c565e57e01db9a95a3f91de8cf92",
+    "webBytes": 483722
+  }
+]
